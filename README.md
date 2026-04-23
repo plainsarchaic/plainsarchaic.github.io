@@ -55,7 +55,7 @@ button {
 </head>
 <body>
 
-  <h1>YOUR NAME / PROJECT</h1>
+  <h1>PLAINS ARCHAIC</h1>
 
   <div class="section">
     <p>
